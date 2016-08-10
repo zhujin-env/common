@@ -24,3 +24,6 @@ export CFLAGS=-fPIC && CXXFLAGS=-fPIC && ./configure -prefix=/home/liangzhujin/e
 ```
 
 * [zlib] (http://www.zlib.net/) 1.2.8
+
+## Caffe
+Refer to [caffe_make](https://github.com/zhujin-env/common/tree/master/caffe_make).
